@@ -16,8 +16,5 @@
 
 ![Ajtazer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajtazer&theme=chartreuse-dark)
 
-### :trollface: Read a Joke :trollface:
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="600" height="400">
-
 ### 🐦 I Tweet Sometimes 🐦
 <img src='https://github-readme-twitter.gazf.vercel.app/api?id=aj_tazer&layout=wide' title="Tweet" alt="Please refresh the page if the widget doesn't show up.">

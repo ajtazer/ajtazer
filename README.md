@@ -11,4 +11,4 @@
 ![Ajtazer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajtazer&theme=chartreuse-dark)
 
 ## Me fr
-<img src="https://c.tenor.com/ZNMWudRKW3YAAAAd/fujiwara-chika-dance.gif" width="640" height="360" />(https://myanimelist.net/profile/ajtazer)
+<a herf="https://myanimelist.net/profile/ajtazer"><img src="https://c.tenor.com/ZNMWudRKW3YAAAAd/fujiwara-chika-dance.gif" width="640" height="360"/></a>

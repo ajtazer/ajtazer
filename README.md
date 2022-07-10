@@ -8,7 +8,5 @@
 ### 📲 Contact 📲
 [![YouTube Badge](https://img.shields.io/badge/-TAZER-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/Tazer-AnujRawat)](https://www.youtube.com/channel/Tazer-AnujRawat) [![Twitter Badge](https://img.shields.io/badge/-@aj_tazer-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aj_tazer)](https://twitter.com/aj_tazer) [![Instagram Badge](https://img.shields.io/badge/-ᴅᴇᴀᴄᴛɪᴠᴀᴛᴇᴅ-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/aj_tazer)](https://instagram.com/aj_tazer) [![Instagram Badge](https://img.shields.io/badge/-@anujrawatazer-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/anujrawatazer)](https://instagram.com/anujrawatazer) [![Gmail Badge](https://img.shields.io/badge/-ajcoolx619@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ajcoolx619@gmail.com)](mailto:ajcoolx619@gmail.com)
 
-![Ajtazer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajtazer&theme=chartreuse-dark)
-
 ## Me fr
 <a href="https://myanimelist.net/profile/ajtazer"><img src="https://c.tenor.com/ZNMWudRKW3YAAAAd/fujiwara-chika-dance.gif" width="640" height="360"/></a>

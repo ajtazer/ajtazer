@@ -18,3 +18,6 @@
 
 ### 🐦 I Tweet Sometimes 🐦
 <img src='https://github-readme-twitter.gazf.vercel.app/api?id=aj_tazer&layout=wide' title="Tweet" alt="Please refresh the page if the widget doesn't show up.">
+
+## Me fr
+<img src="https://c.tenor.com/ZNMWudRKW3YAAAAd/fujiwara-chika-dance.gif" width="640" height="360" />

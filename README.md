@@ -10,3 +10,5 @@
 
 ## Me fr
 <a href="https://myanimelist.net/profile/ajtazer"><img src="https://c.tenor.com/ZNMWudRKW3YAAAAd/fujiwara-chika-dance.gif" width="640" height="360"/></a>
+
+![result](https://user-images.githubusercontent.com/37796611/218300558-8435bfd2-71a0-4f98-8c15-01b974abc41f.png)
